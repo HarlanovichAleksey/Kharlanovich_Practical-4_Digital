@@ -28,4 +28,4 @@
 - `img/` — SVG-иконки услуг и аватарки команды.
 
 ## Демо
-🔗 [https://harlanovichaleksey.github.io/Kharlanovich_Practical_4_Digital/](https://harlanovichaleksey.github.io/Kharlanovich_Practical_4_Digital/)
+🔗 [https://harlanovichaleksey.github.io/Kharlanovich_Practical-4_Digital/](https://harlanovichaleksey.github.io/Kharlanovich_Practical-4_Digital/)
