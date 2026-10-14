@@ -41,7 +41,7 @@ header {
     font-size: 56px;
     font-weight: 600;
     line-height: 1;
-    margin: 3px 0 25px;
+    margin: -2px 0 25px;
     color: #fff;
     letter-spacing: 3px;
 }
@@ -52,7 +52,7 @@ header {
     line-height: 26px;
     max-width: 440px;
     letter-spacing: 1px;
-    margin: 0 0 50px;
+    margin: 0 0 31px;
     color: rgba(255, 255, 255, 0.95);
 }
 
